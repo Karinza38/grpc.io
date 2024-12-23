@@ -1,4 +1,4 @@
-# gRPC website
+gRPC website
 
 The [grpc.io][] site, built using [Hugo][] and hosted on [Netlify][].
 
